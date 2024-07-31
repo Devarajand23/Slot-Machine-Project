@@ -1,6 +1,10 @@
 # Slot-Machine-Project
 Welcome to the Slot Machine Game! This is a simple console-based game developed in Python, simulating a classic slot machine experience. Players can deposit money, place bets, and spin the reels to test their luck and potentially win big!
 
+Disclaimer :
+
+This project is for educational and entertainment purposes only. We do not endorse or promote gambling in any form. The game is purely virtual and does not involve real money transactions. The goal is to provide a fun programming exercise and showcase basic concepts in Python, such as random number generation, loops, and conditionals. Always gamble responsibly and within your means if you choose to participate in gambling activities outside this project.
+
 Features
 
     Multiple Lines Betting: Bet on up to 3 lines, increasing your chances of winning.
